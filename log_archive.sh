@@ -4,7 +4,6 @@
 
 #Variables
 BASE="/home/vagrant/tutorials"
-DAYS=10
 DEPTH=1
 RUN=0
 
